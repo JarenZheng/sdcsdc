@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-3aa975b0"],{"356b":function(t,n,e){"use strict";var a=e("ffeb"),c=e.n(a);c.a},fd2d:function(t,n,e){"use strict";e.r(n);var a=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"footer-box"},[t._v(" Copyright © 2020 華為國際 出品 ")])},c=[],f={},o=f,s=(e("356b"),e("2877")),i=Object(s["a"])(o,a,c,!1,null,"5e0199f4",null);n["default"]=i.exports},ffeb:function(t,n,e){}}]);
+//# sourceMappingURL=chunk-3aa975b0.3fde2555.js.map
